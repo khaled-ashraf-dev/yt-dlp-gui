@@ -1,0 +1,2 @@
+ttkbootstrap==1.2.0
+yt_dlp==2021.12.27
