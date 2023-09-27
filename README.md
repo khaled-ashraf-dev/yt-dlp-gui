@@ -17,7 +17,7 @@ YT-DLP GUI is a graphical user interface (GUI) application for downloading YouTu
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/your-project.git
+git clone https://github.com/khaled-ashraf-dev/yt-dlp-gui.git
 
 2. Install the required dependencies:
 
